@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FactoryMethod
+namespace DesignPatterns.Creational.FactoryMethod
 {
     public class RealWorld
     {

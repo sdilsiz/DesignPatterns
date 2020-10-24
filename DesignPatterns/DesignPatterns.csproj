@@ -3,11 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>DesignPatterns.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Creational\AbstractFactory\AbstractFactory.csproj" />
-    <ProjectReference Include="..\Creational\Builder\Builder.csproj" />
-  </ItemGroup>
 
 </Project>

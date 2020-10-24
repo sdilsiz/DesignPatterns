@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FactoryMethod {
+namespace DesignPatterns.Creational.FactoryMethod {
     public class Structural {
         /// <summary>
         /// MainApp startup class for Structural 

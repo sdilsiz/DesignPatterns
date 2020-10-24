@@ -1,8 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 
-namespace TempProject {
+namespace DesignPatterns.Structural.T {
     public class Structural {
-        
-    }
 
+    }
 }
