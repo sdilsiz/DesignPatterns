@@ -12,8 +12,11 @@ namespace DesignPatterns {
 
 
          
-            Builder.Structural.MainApp.Main();
-            Builder.RealWorld.MainApp.Main();
+            //Builder.Structural.MainApp.Main();
+            //Builder.RealWorld.MainApp.Main();
+
+
+
 
             Console.ReadKey();
         }
