@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DesignPatterns.Structural.T {
+namespace DesignPatterns.Behavioral.T {
     public class Structural {
 
     }
